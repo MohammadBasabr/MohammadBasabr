@@ -19,7 +19,7 @@ I'm interested in Implementation issues. So I'm always looking to learn new solu
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<p valign="top" width="50%">
 
 - 🔭 I’m currently working on my React js projects.  
   
@@ -39,14 +39,7 @@ I'm interested in Implementation issues. So I'm always looking to learn new solu
 ⚡ Fun fact: AI is coming...  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+</p>  
 
 <br/>  
 
